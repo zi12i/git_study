@@ -11,12 +11,17 @@ rani2 수정중
 =======
 >>>>>>> origin/main
 
-쏘리쏘리쏘리쏘리 
+# git_study
+
+시루시루~시룬데~?
+dd
+쏘리쏘리쏘리쏘리
 
 스트롱규 강사님
 사운드클라우드 아이디
 HANKKUU
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> origin/main
 
@@ -24,5 +29,8 @@ HANKKUU
 
 =======
 
+선생님 기타소리
+>>>>>>> origin/main
+=======
 선생님 기타소리
 >>>>>>> origin/main
